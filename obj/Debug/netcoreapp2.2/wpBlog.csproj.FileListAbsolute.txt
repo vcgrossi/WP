@@ -1,0 +1,14 @@
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.csprojAssemblyReference.cache
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.csproj.CoreCompileInputs.cache
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.RazorAssemblyInfo.cache
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.RazorAssemblyInfo.cs
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.AssemblyInfoInputs.cache
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.AssemblyInfo.cs
+C:\Work\wpBlog\bin\Debug\netcoreapp2.2\wpBlog.deps.json
+C:\Work\wpBlog\bin\Debug\netcoreapp2.2\wpBlog.runtimeconfig.json
+C:\Work\wpBlog\bin\Debug\netcoreapp2.2\wpBlog.runtimeconfig.dev.json
+C:\Work\wpBlog\bin\Debug\netcoreapp2.2\wpBlog.dll
+C:\Work\wpBlog\bin\Debug\netcoreapp2.2\wpBlog.pdb
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.RazorTargetAssemblyInfo.cache
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.dll
+C:\Work\wpBlog\obj\Debug\netcoreapp2.2\wpBlog.pdb
