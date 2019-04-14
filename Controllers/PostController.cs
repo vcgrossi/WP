@@ -2,11 +2,14 @@ using WpBlog.model;
 using WpBlog.Repository;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using Microsoft.AspNetCore.Cors;
 
 namespace WpBlog.Controller
 {
     [ApiController]
     [Route("/api/v1/[controller]")]
+    //Permite todas as requisições 
+    [EnableCors("AllowAll")]
     //ControllerBase: Usado para controlar a base dos dados, convertendo para o http;
     public class PostController : ControllerBase
     {
